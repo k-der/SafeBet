@@ -10,7 +10,7 @@ Whilst these methods have had a great deal of success in the past, they fall sho
 3. Preventing account takeovers reduces opportunities for money laundering taking place and enhances compliance with regulations.
 
 ## The Team
-* Dermot Kerr – Primary Investigator
-* Sonya Coleman – Co-Investigator 
-* Fergus Begley – Ulster University TTO
-* Leeanne Lindsay – Early Career Researcher 
+* [Dermot Kerr – Primary Investigator](https://www.ulster.ac.uk/staff/d-kerr)
+* [Sonya Coleman – Co-Investigator](https://www.ulster.ac.uk/staff/sa-coleman)
+* [Fergus Begley – Ulster University TTO](https://www.ulster.ac.uk/staff/fm-begley)
+* [Leeanne Lindsay – Early Career Researcher](https://pure.ulster.ac.uk/en/persons/leeanne-lindsay)
