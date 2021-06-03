@@ -10,7 +10,10 @@ Whilst these methods have had a great deal of success in the past, they fall sho
 3. Preventing account takeovers reduces opportunities for money laundering taking place and enhances compliance with regulations.
 
 ## The Team
-Dermot Kerr – Primary Investigator 
+Dermot Kerr – Primary Investigator
+
 Sonya Coleman – Co-Investigator 
+
 Fergus Begley – Ulster University TTO
+
 Leeanne Lindsay – Early Career Researcher 
